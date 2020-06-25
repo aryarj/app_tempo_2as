@@ -1,0 +1,14 @@
+C:\Users\Cliente\source\repos\app_tempo_2as\app_tempo_2as\bin\Debug\app_tempo_2as.exe.config
+C:\Users\Cliente\source\repos\app_tempo_2as\app_tempo_2as\bin\Debug\app_tempo_2as.exe
+C:\Users\Cliente\source\repos\app_tempo_2as\app_tempo_2as\bin\Debug\app_tempo_2as.pdb
+C:\Users\Cliente\source\repos\app_tempo_2as\app_tempo_2as\obj\Debug\app_tempo_2as.csprojAssemblyReference.cache
+C:\Users\Cliente\source\repos\app_tempo_2as\app_tempo_2as\obj\Debug\app_tempo_2as.Form1.resources
+C:\Users\Cliente\source\repos\app_tempo_2as\app_tempo_2as\obj\Debug\app_tempo_2as.Properties.Resources.resources
+C:\Users\Cliente\source\repos\app_tempo_2as\app_tempo_2as\obj\Debug\app_tempo_2as.csproj.GenerateResource.cache
+C:\Users\Cliente\source\repos\app_tempo_2as\app_tempo_2as\obj\Debug\app_tempo_2as.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\app_tempo_2as\app_tempo_2as\obj\Debug\app_tempo_2as.exe
+C:\Users\Cliente\source\repos\app_tempo_2as\app_tempo_2as\obj\Debug\app_tempo_2as.pdb
+C:\Users\Cliente\source\repos\app_tempo_2as\app_tempo_2as\bin\Debug\app_tempo_2as.exe.manifest
+C:\Users\Cliente\source\repos\app_tempo_2as\app_tempo_2as\bin\Debug\app_tempo_2as.application
+C:\Users\Cliente\source\repos\app_tempo_2as\app_tempo_2as\obj\Debug\app_tempo_2as.exe.manifest
+C:\Users\Cliente\source\repos\app_tempo_2as\app_tempo_2as\obj\Debug\app_tempo_2as.application
